@@ -21,14 +21,14 @@ var sered=Math.floor(count/2);
 
 	// начало контента
 	if(jQuery(".entry-content").length) {
-		jQuery('<center><div id="yandex_rtb_R-A-2545402-3"></div></center>').insertBefore(jQuery(".entry-content"));
+		jQuery('<center><div id="yandex_rtb_R-A-19787202-22"></div></center>').insertBefore(jQuery(".entry-content"));
  
 		 (function(w, d, n, s, t) {
         w[n] = w[n] || [];
         w[n].push(function() {
             Ya.Context.AdvManager.render({
-                blockId: "R-A-2545402-3",
-                renderTo: "yandex_rtb_R-A-2545402-3",
+                blockId: "R-A-19787202-22",
+                renderTo: "yandex_rtb_R-A-19787202-22",
                 async: true
             });
         });
@@ -44,14 +44,14 @@ var sered=Math.floor(count/2);
 	
 	// конец контента
 	if(jQuery(".entry-content").length) {
-		jQuery('<center><div id="yandex_rtb_R-A-2545402-4"></div></center>').insertAfter(jQuery(".entry-content"));
+		jQuery('<center><div id="yandex_rtb_R-A-19787202-23"></div></center>').insertAfter(jQuery(".entry-content"));
  
 		 (function(w, d, n, s, t) {
         w[n] = w[n] || [];
         w[n].push(function() {
             Ya.Context.AdvManager.render({
-                blockId: "R-A-2545402-4",
-                renderTo: "yandex_rtb_R-A-2545402-4",
+                blockId: "R-A-19787202-23",
+                renderTo: "yandex_rtb_R-A-19787202-23",
                 async: true
             });
         });
@@ -85,14 +85,14 @@ if(jQuery(window).width()>1700){
 	}
 	 
 	 
-	jQuery('<style> footer{padding-bottom:100px;}</style><div id="leftrekl" style="position:fixed; bottom:0; width:100%; background:#fff;z-index: 999999;"><span class="closel" onclick="closepopup()" title="Закрыть"></span> <center><div id="yandex_rtb_R-A-2545402-1" style="width: 100%;    height: 100%;    position: relative;    background: rgba(255, 255, 255, 0);    clear: both;"></div></center></div> <style type="text/css"> .closel{display: block; box-sizing: content-box; position: absolute; top: 0px; left: 0px; width: 32px; height: 32px; z-index: 999999; cursor: pointer; background-color: #000; text-decoration: none; border: none; box-shadow: none!important; opacity:1; } .closel::after { transform: rotate(-45deg); } .closel::before { transform: rotate(45deg); } .closel::before,.closel::after { content: \'\'; position: absolute; height: 2px; width: 100%; top: 50%; left: 0; margin-top: -1px; background: #fff; } </style>').insertAfter('body');
+	jQuery('<style> footer{padding-bottom:100px;}</style><div id="leftrekl" style="position:fixed; bottom:0; width:100%; background:#fff;z-index: 999999;"><span class="closel" onclick="closepopup()" title="Закрыть"></span> <center><div id="yandex_rtb_R-A-19787202-20" style="width: 100%;    height: 100%;    position: relative;    background: rgba(255, 255, 255, 0);    clear: both;"></div></center></div> <style type="text/css"> .closel{display: block; box-sizing: content-box; position: absolute; top: 0px; left: 0px; width: 32px; height: 32px; z-index: 999999; cursor: pointer; background-color: #000; text-decoration: none; border: none; box-shadow: none!important; opacity:1; } .closel::after { transform: rotate(-45deg); } .closel::before { transform: rotate(45deg); } .closel::before,.closel::after { content: \'\'; position: absolute; height: 2px; width: 100%; top: 50%; left: 0; margin-top: -1px; background: #fff; } </style>').insertAfter('body');
 	  
     (function(w, d, n, s, t) {  
         w[n] = w[n] || [];
         w[n].push(function() {
             Ya.Context.AdvManager.render({
-                blockId: "R-A-2545402-1",
-                renderTo: "yandex_rtb_R-A-2545402-1",
+                blockId: "R-A-19787202-20",
+                renderTo: "yandex_rtb_R-A-19787202-20",
                 async: true
             });  
         });
@@ -116,8 +116,8 @@ if(jQuery(window).width()>1700){
 				w[n] = w[n] || [];
 				w[n].push(function() {
 					Ya.Context.AdvManager.render({
-						blockId: "R-A-2545402-2",
-						renderTo: "yandex_rtb_R-A-2545402-1",
+						blockId: "R-A-19787202-21",
+						renderTo: "yandex_rtb_R-A-19787202-20",
 						async: true
 					});  
 				});
